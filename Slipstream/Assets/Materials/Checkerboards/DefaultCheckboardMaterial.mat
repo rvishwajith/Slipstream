@@ -43,5 +43,6 @@ Material:
     - _QueueControl: 0
     - _Tile_Size: 2
     m_Colors:
-    - _Tile_2: {r: 0.6226415, g: 0.6226415, b: 0.6226415, a: 0}
+    - _Tile_1: {r: 0.1792453, g: 0.1792453, b: 0.1792453, a: 0}
+    - _Tile_2: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0}
   m_BuildTextureStacks: []
